@@ -2,4 +2,7 @@ pandas
 numpy
 seaborn
 matplotlib
--e.
+scikit-learn
+catboost
+xgboost
+#-e. #comment it out after 1st time otherwise it will create new files again! 
